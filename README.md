@@ -1,5 +1,20 @@
 # Getting Started with Create React App
 
+## Movie List with signup and login page using API POST method 
+
+## Signup page with Name, Password, Email, Phone number, and Profession (Dropdown) and store the data locally (local storage).
+
+![Signup](https://user-images.githubusercontent.com/88196804/179424511-37b23088-5ad3-46ee-956e-2a50044137d7.png)
+
+## SignIn Page using the same credentials used during Signup retreived from local storage to login 
+
+![Signin](https://user-images.githubusercontent.com/88196804/179424567-dd4d986d-d74b-4c83-9cbc-b9fc0c084e5f.png)
+
+## Home Page : Call API https://hoblist.com/api/movieList and use POST method to display result 
+
+![home](https://user-images.githubusercontent.com/88196804/179424618-643a9f9a-b9c9-43c4-bd12-f55f50f5dad6.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
